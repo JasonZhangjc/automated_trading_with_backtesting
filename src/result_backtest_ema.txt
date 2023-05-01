@@ -1,0 +1,31 @@
+Start                     2019-08-05 00:00:00
+End                       2022-04-29 23:45:00
+Duration                    998 days 23:45:00
+Exposure Time [%]                   25.366713
+Equity Final [$]                396132.117766
+Equity Peak [$]                 493460.666488
+Return [%]                         296.132118
+Buy & Hold Return [%]              248.678633
+Return (Ann.) [%]                   70.277152
+Volatility (Ann.) [%]              114.111221
+Sharpe Ratio                         0.615865
+Sortino Ratio                        1.681164
+Calmar Ratio                         1.018735
+Max. Drawdown [%]                  -68.984716
+Avg. Drawdown [%]                   -3.005097
+Max. Drawdown Duration      343 days 11:15:00
+Avg. Drawdown Duration        7 days 00:51:00
+# Trades                                 4082
+Win Rate [%]                        31.234689
+Best Trade [%]                       4.711352
+Worst Trade [%]                    -12.301706
+Avg. Trade [%]                       0.016909
+Max. Trade Duration           2 days 20:45:00
+Avg. Trade Duration           0 days 01:25:00
+Profit Factor                        1.089293
+Expectancy [%]                       0.018873
+SQN                                  1.565892
+_strategy                             MyStrat
+_equity_curve                             ...
+_trades                         Size  Entr...
+dtype: object
