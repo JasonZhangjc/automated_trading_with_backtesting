@@ -1,4 +1,4 @@
-*** Automated Trading with Backtesting in Python ***
+### Automated Trading with Backtesting in Python
 
 This repo is more for a self-learning purpose.
 
