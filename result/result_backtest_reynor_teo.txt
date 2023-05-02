@@ -1,0 +1,36 @@
+[*********************100%***********************]  1 of 1 completed
+Index(['index', 'Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume',
+       'EMA', 'EMA2', 'RSI', 'BBL_14_2.0', 'BBM_14_2.0', 'BBU_14_2.0',
+       'BBB_14_2.0', 'BBP_14_2.0', 'EMASignal'],
+      dtype='object')
+Start                                     0.0
+End                                    2315.0
+Duration                               2315.0
+Exposure Time [%]                   26.079447
+Equity Final [$]                 28728.464895
+Equity Peak [$]                  28728.464895
+Return [%]                         2772.84649
+Buy & Hold Return [%]              213.320124
+Return (Ann.) [%]                         0.0
+Volatility (Ann.) [%]                     NaN
+Sharpe Ratio                              NaN
+Sortino Ratio                             NaN
+Calmar Ratio                              0.0
+Max. Drawdown [%]                  -48.245971
+Avg. Drawdown [%]                   -7.787384
+Max. Drawdown Duration                  334.0
+Avg. Drawdown Duration              32.407407
+# Trades                                 82.0
+Win Rate [%]                        59.756098
+Best Trade [%]                       5.857944
+Worst Trade [%]                     -5.270279
+Avg. Trade [%]                       1.034705
+Max. Trade Duration                      11.0
+Avg. Trade Duration                  6.365854
+Profit Factor                          2.3433
+Expectancy [%]                       1.073899
+SQN                                  2.301618
+_strategy                             MyStrat
+_equity_curve                         Equi...
+_trades                       Size  EntryB...
+dtype: object

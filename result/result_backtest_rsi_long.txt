@@ -1,0 +1,32 @@
+[*********************100%***********************]  1 of 1 completed
+Start                                     0.0
+End                                    2315.0
+Duration                               2315.0
+Exposure Time [%]                   19.343696
+Equity Final [$]                  3018.098156
+Equity Peak [$]                   3595.734056
+Return [%]                         201.809816
+Buy & Hold Return [%]              213.320124
+Return (Ann.) [%]                         0.0
+Volatility (Ann.) [%]                     NaN
+Sharpe Ratio                              NaN
+Sortino Ratio                             NaN
+Calmar Ratio                              0.0
+Max. Drawdown [%]                  -35.778367
+Avg. Drawdown [%]                   -7.124936
+Max. Drawdown Duration                  421.0
+Avg. Drawdown Duration              57.212121
+# Trades                                102.0
+Win Rate [%]                        73.529412
+Best Trade [%]                       4.431525
+Worst Trade [%]                     -3.315564
+Avg. Trade [%]                       0.311283
+Max. Trade Duration                      10.0
+Avg. Trade Duration                  3.392157
+Profit Factor                        1.577433
+Expectancy [%]                       0.325304
+SQN                                  1.164235
+_strategy                             MyStrat
+_equity_curve                        Equit...
+_trades                        Size  Entry...
+dtype: object

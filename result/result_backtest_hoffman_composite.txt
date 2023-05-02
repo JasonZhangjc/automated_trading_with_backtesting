@@ -1,0 +1,42 @@
+[*********************100%***********************]  1 of 1 completed
+(5601, 9)
+       Open      High       Low     Close  ...  Volume  EMA  ATR  slopeEMA
+0  1.073307  1.073768  1.073307  1.073537  ...       0  NaN  NaN       NaN
+1  1.073422  1.073653  1.073076  1.073076  ...       0  NaN  NaN       NaN
+2  1.073192  1.073768  1.073076  1.073422  ...       0  NaN  NaN       NaN
+3  1.073537  1.073883  1.073422  1.073768  ...       0  NaN  NaN       NaN
+4  1.073537  1.073768  1.073307  1.073422  ...       0  NaN  NaN       NaN
+
+[5 rows x 9 columns]
+(400, 15)
+Start                                  1800.0
+End                                    2199.0
+Duration                                399.0
+Exposure Time [%]                        9.75
+Equity Final [$]                 10333.564758
+Equity Peak [$]                  10333.564758
+Return [%]                           3.335648
+Buy & Hold Return [%]                  0.3861
+Return (Ann.) [%]                         0.0
+Volatility (Ann.) [%]                     NaN
+Sharpe Ratio                              NaN
+Sortino Ratio                             NaN
+Calmar Ratio                              0.0
+Max. Drawdown [%]                   -0.624013
+Avg. Drawdown [%]                   -0.379552
+Max. Drawdown Duration                    8.0
+Avg. Drawdown Duration                    5.0
+# Trades                                  1.0
+Win Rate [%]                            100.0
+Best Trade [%]                       0.333568
+Worst Trade [%]                      0.333568
+Avg. Trade [%]                       0.333568
+Max. Trade Duration                      38.0
+Avg. Trade Duration                      38.0
+Profit Factor                             NaN
+Expectancy [%]                       0.333568
+SQN                                       NaN
+_strategy                             MyStrat
+_equity_curve                         Equi...
+_trades                       Size  EntryB...
+dtype: object

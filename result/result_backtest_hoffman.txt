@@ -1,0 +1,40 @@
+Index(['Local time', 'Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+                         Local time     Open     High  ...  EMA  ATR  slopeEMA
+0  05.05.2003 00:00:00.000 GMT+0300  1.12284  1.12338  ...  NaN  NaN       NaN
+1  05.05.2003 01:00:00.000 GMT+0300  1.12274  1.12302  ...  NaN  NaN       NaN
+2  05.05.2003 02:00:00.000 GMT+0300  1.12235  1.12235  ...  NaN  NaN       NaN
+3  05.05.2003 03:00:00.000 GMT+0300  1.12161  1.12314  ...  NaN  NaN       NaN
+4  05.05.2003 04:00:00.000 GMT+0300  1.12232  1.12262  ...  NaN  NaN       NaN
+
+[5 rows x 9 columns]
+Start                                  1800.0
+End                                    2199.0
+Duration                                399.0
+Exposure Time [%]                        18.0
+Equity Final [$]                 12629.740303
+Equity Peak [$]                  12629.740303
+Return [%]                          26.297403
+Buy & Hold Return [%]                0.258171
+Return (Ann.) [%]                         0.0
+Volatility (Ann.) [%]                     NaN
+Sharpe Ratio                              NaN
+Sortino Ratio                             NaN
+Calmar Ratio                              0.0
+Max. Drawdown [%]                   -7.338124
+Avg. Drawdown [%]                   -1.345554
+Max. Drawdown Duration                  156.0
+Avg. Drawdown Duration              17.636364
+# Trades                                  4.0
+Win Rate [%]                             75.0
+Best Trade [%]                       1.162019
+Worst Trade [%]                     -0.574658
+Avg. Trade [%]                       0.622756
+Max. Trade Duration                      24.0
+Avg. Trade Duration                      17.0
+Profit Factor                        5.351741
+Expectancy [%]                       0.625191
+SQN                                  1.506464
+_strategy                            MyStrat1
+_equity_curve                         Equi...
+_trades                        Size  Entry...
+dtype: object
