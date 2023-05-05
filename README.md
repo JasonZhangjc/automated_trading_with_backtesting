@@ -14,8 +14,13 @@ Multiple strategies:
 - Composite Hoffman Inventory Retracement Bar
 - Breakout trading
 - Grid trading
-- RSI+ADX
+- RSI + ADX
 - Reynor Teo Bollinger Bands
+- Head and Shoulders Pattern
+- Triangle Pattern
+- Martingale Approach
+- Martingale + Resistance&Support
+- Traling Stop Loss + ATR
 - ...
 
 

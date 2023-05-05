@@ -1,0 +1,128 @@
+Start                                     0.0
+End                                    4733.0
+Duration                               4733.0
+Exposure Time [%]                   75.369666
+Equity Final [$]                  22107.96754
+Equity Peak [$]                   22595.45781
+Return [%]                         121.079675
+Buy & Hold Return [%]                5.128364
+Return (Ann.) [%]                         0.0
+Volatility (Ann.) [%]                     NaN
+Sharpe Ratio                              NaN
+Sortino Ratio                             NaN
+Calmar Ratio                              0.0
+Max. Drawdown [%]                  -21.539101
+Avg. Drawdown [%]                   -2.072615
+Max. Drawdown Duration                 1801.0
+Avg. Drawdown Duration              60.295775
+# Trades                                 98.0
+Win Rate [%]                        70.408163
+Best Trade [%]                       5.638716
+Worst Trade [%]                     -5.052092
+Avg. Trade [%]                       1.374906
+Max. Trade Duration                     286.0
+Avg. Trade Duration                 76.846939
+Profit Factor                        2.329122
+Expectancy [%]                       1.441881
+SQN                                  2.682963
+_strategy                      MyCandlesStrat
+_equity_curve                        Equit...
+_trades                        Size  Entry...
+dtype: object 
+
+Start                                     0.0
+End                                    4733.0
+Duration                               4733.0
+Exposure Time [%]                   76.362484
+Equity Final [$]                 22540.846509
+Equity Peak [$]                  25841.713272
+Return [%]                         125.408465
+Buy & Hold Return [%]                5.128364
+Return (Ann.) [%]                         0.0
+Volatility (Ann.) [%]                     NaN
+Sharpe Ratio                              NaN
+Sortino Ratio                             NaN
+Calmar Ratio                              0.0
+Max. Drawdown [%]                  -23.472182
+Avg. Drawdown [%]                     -2.1381
+Max. Drawdown Duration                 1626.0
+Avg. Drawdown Duration              46.933333
+# Trades                                101.0
+Win Rate [%]                        71.287129
+Best Trade [%]                      10.856063
+Worst Trade [%]                      -7.72418
+Avg. Trade [%]                       1.182751
+Max. Trade Duration                     607.0
+Avg. Trade Duration                 72.405941
+Profit Factor                        2.023627
+Expectancy [%]                       1.267507
+SQN                                  2.018943
+_strategy                      MyCandlesStrat
+_equity_curve                         Equi...
+_trades                         Size  Entr...
+dtype: object 
+
+Start                                     0.0
+End                                    4733.0
+Duration                               4733.0
+Exposure Time [%]                   75.327419
+Equity Final [$]                  23178.80878
+Equity Peak [$]                   23665.54081
+Return [%]                         131.788088
+Buy & Hold Return [%]                5.128364
+Return (Ann.) [%]                         0.0
+Volatility (Ann.) [%]                     NaN
+Sharpe Ratio                              NaN
+Sortino Ratio                             NaN
+Calmar Ratio                              0.0
+Max. Drawdown [%]                  -16.444184
+Avg. Drawdown [%]                   -1.677121
+Max. Drawdown Duration                 1111.0
+Avg. Drawdown Duration               41.53211
+# Trades                                 40.0
+Win Rate [%]                             55.0
+Best Trade [%]                      20.533811
+Worst Trade [%]                     -3.768513
+Avg. Trade [%]                       2.124016
+Max. Trade Duration                     495.0
+Avg. Trade Duration                     88.15
+Profit Factor                        3.997959
+Expectancy [%]                       2.257076
+SQN                                  2.478995
+_strategy                      MyCandlesStrat
+_equity_curve                        Equit...
+_trades                        Size  Entry...
+dtype: object 
+
+Start                                     0.0
+End                                    4733.0
+Duration                               4733.0
+Exposure Time [%]                   20.616815
+Equity Final [$]                 16967.842679
+Equity Peak [$]                  17622.459802
+Return [%]                          69.678427
+Buy & Hold Return [%]                5.128364
+Return (Ann.) [%]                         0.0
+Volatility (Ann.) [%]                     NaN
+Sharpe Ratio                              NaN
+Sortino Ratio                             NaN
+Calmar Ratio                              0.0
+Max. Drawdown [%]                   -7.112805
+Avg. Drawdown [%]                   -1.297683
+Max. Drawdown Duration                  783.0
+Avg. Drawdown Duration              68.104478
+# Trades                                159.0
+Win Rate [%]                        48.427673
+Best Trade [%]                       6.308715
+Worst Trade [%]                     -1.910493
+Avg. Trade [%]                       0.333105
+Max. Trade Duration                      23.0
+Avg. Trade Duration                  5.138365
+Profit Factor                        2.157499
+Expectancy [%]                       0.342619
+SQN                                  2.995871
+_strategy                      MyCandlesStrat
+_equity_curve                         Equi...
+_trades                         Size  Entr...
+dtype: object 
+
