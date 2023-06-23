@@ -21,6 +21,7 @@ Multiple strategies:
 - Martingale Approach
 - Martingale + Resistance&Support
 - Traling Stop Loss + ATR
+- Fibonacci Retracement
 - ...
 
 
