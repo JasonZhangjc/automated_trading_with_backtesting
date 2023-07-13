@@ -22,6 +22,7 @@ Multiple strategies:
 - Martingale + Resistance&Support
 - Traling Stop Loss + ATR
 - Fibonacci Retracement
+- Trade Management with Discreately Adaptive Stoploss
 - ...
 
 
